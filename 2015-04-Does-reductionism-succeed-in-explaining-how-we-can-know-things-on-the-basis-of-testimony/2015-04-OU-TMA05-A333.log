@@ -1,12 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  23 NOV 2017 12:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  23 NOV 2017 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-things-on-the
--basis-of-testimony.tex
-
-(./2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-things-on-th
-e-basis-of-testimony.tex
+**2015-04-OU-TMA05-A333.tex
+(./2015-04-OU-TMA05-A333.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -99,10 +96,8 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(./2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-things-on-th
-e-basis-of-testimony.aux)
-\openout1 = `2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-th
-ings-on-the-basis-of-testimony.aux'.
+(./2015-04-OU-TMA05-A333.aux)
+\openout1 = `2015-04-OU-TMA05-A333.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -205,27 +200,23 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-things-on-th
-e-basis-of-testimony.bbl
+(./2015-04-OU-TMA05-A333.bbl
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
-) [2]
-(./2015-04-Does-reductionism-succeed-in-explaining-how-we-can-know-things-on-th
-e-basis-of-testimony.aux) ) 
+) [2] (./2015-04-OU-TMA05-A333.aux) ) 
 Here is how much of TeX's memory you used:
  3324 strings out of 493029
- 52040 string characters out of 6136234
- 138208 words of memory out of 5000000
+ 51215 string characters out of 6136234
+ 138133 words of memory out of 5000000
  6761 multiletter control sequences out of 15000+600000
  23136 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,4n,35p,864b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/
-8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 2015-04-Does-reductionism-succeed-in-explaining-how-we-can-kn
-ow-things-on-the-basis-of-testimony.pdf (2 pages, 53710 bytes).
+ 38i,4n,35p,789b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/d
+vips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on 2015-04-OU-TMA05-A333.pdf (2 pages, 53710 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
