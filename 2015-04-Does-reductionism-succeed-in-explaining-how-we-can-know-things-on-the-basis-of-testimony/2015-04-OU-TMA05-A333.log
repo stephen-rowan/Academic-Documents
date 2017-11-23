@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  23 NOV 2017 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  23 NOV 2017 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,32 +194,39 @@ e
 \big@size=\dimen110
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 56.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 69.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./2015-04-OU-TMA05-A333.bbl
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (6.44862pt too wide) in paragraph at lines 89--89
+[]\T1/ppl/b/n/14.4 Coady's in-ter-de-pen-dence ob-jec-tion to Hume's re-duc-tio
+n-
+ []
+
+[3] [4] [5] (./2015-04-OU-TMA05-A333.bbl
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
-) [2] (./2015-04-OU-TMA05-A333.aux) ) 
+ [6]) [7] (./2015-04-OU-TMA05-A333.aux) ) 
 Here is how much of TeX's memory you used:
- 3324 strings out of 493029
- 51215 string characters out of 6136234
- 138133 words of memory out of 5000000
- 6761 multiletter control sequences out of 15000+600000
- 23136 words of font info for 80 fonts, out of 8000000 for 9000
+ 3427 strings out of 493029
+ 52171 string characters out of 6136234
+ 140158 words of memory out of 5000000
+ 6775 multiletter control sequences out of 15000+600000
+ 30792 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,4n,35p,789b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 2015-04-OU-TMA05-A333.pdf (2 pages, 53710 bytes).
+ 38i,4n,35p,1505b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/e
+nc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/up
+lb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on 2015-04-OU-TMA05-A333.pdf (7 pages, 73497 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23041 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 27649 words of extra memory for PDF output out of 29859 (max. 10000000)
 
