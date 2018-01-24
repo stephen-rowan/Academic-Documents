@@ -1,10 +1,11 @@
 # Does reductionism succeed in explaining how we can know things on the basis of testimony?
 
 This essay was written in April 2015 as part of a course of study in
-the Open University's 'A333-Key-questions-in-philosophy' module. The
-subject matter relates to 'Book-5-Knowledge-and-Reason' which
-concerned "the rationality of beliefs and scientific theories – the
-kind of rationality needed for knowledge".
+the Open University's 'A333-Key-questions-in-philosophy' module and
+received an assessment score of 90. The subject matter relates to
+'Book-5-Knowledge-and-Reason' which concerned "the rationality of
+beliefs and scientific theories – the kind of rationality needed for
+knowledge".
 
 
 
